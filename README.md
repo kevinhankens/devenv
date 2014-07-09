@@ -4,7 +4,7 @@ Development Container
 Install Docker:
 ---------------
 ```
-$ sudo apt-get install docker-lxc
+$ sudo apt-get install lxc-docker
 ```
 
 Create the image:
